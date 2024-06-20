@@ -15,5 +15,5 @@
 ### Footer
 ![Footer](design_system/footer.png)
 
-### Custom Component
-![Component](design_system/component.png)
+### Board
+![Board](design_system/component.png)
