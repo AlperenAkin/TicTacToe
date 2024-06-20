@@ -44,4 +44,4 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
     https://alperenakin.github.io/TicTacToe/
 
 2. Or clone the repository.
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/AlperenAkin/TicTacToe.git
