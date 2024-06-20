@@ -16,4 +16,4 @@
 ![Footer](design_system/footer.png)
 
 ### Board
-![Board](design_system/component.png)
+![Board](design_system/board.png)
