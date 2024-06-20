@@ -35,8 +35,8 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 ### Game Over - Player X Won
 ![Player X Won](images/x_won.png)
 
-### Game Over - Player Y Won
-![Player X Won](images/y_won.png)
+### Game Over - Player 0 Won
+![Player X Won](images/0_won.png)
 
 ## How to Run
 
