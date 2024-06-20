@@ -1,8 +1,8 @@
 # TicTacToe
 
 # My Design System
-This repository documents the design system for my portfolio website.
-[Design System](docs/design_system.md)
+This repository documents the design system for Tic-Tac-Toe game for deliverable 2.
+[Tic-Tac-Toe](docs/design_system.md)
 
 
 # Description
