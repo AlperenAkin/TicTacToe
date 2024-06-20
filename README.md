@@ -1,4 +1,6 @@
 # TicTacToe
+TicTacToe game can be accessed through our portfolio website. It is linked under the 'projects' section of our webiste
+portfolio github pages link: https://alperenakin.github.io/portfolio/
 
 # My Design System
 This repository documents the design system for Tic-Tac-Toe game for deliverable 2.
